@@ -106,15 +106,19 @@ g++ "2D city Projects.cpp" -o city -lGL -lGLU -lglut
 g++ "2D city Projects.cpp" -o city.exe -lfreeglut -lopengl32 -lglu32
 city.exe
 ```
-## 📸 Demo Preview
+## 📸 Screenshots
+| 🌞 Day Mode | 🌙 Night Mode | 🌧️ Rain Effect | 
+|-----------|------------|-----------|
+| ![Main Window](https://github.com/tajulislamsaidul/2D-Animated-City/blob/aa35cf86717d106363319410c52a97ae615a6709/Day%20output.png) | ![Light Mode](https://github.com/tajulislamsaidul/2D-Animated-City/blob/aa35cf86717d106363319410c52a97ae615a6709/night%20output.png) | ![Patient Report](https://github.com/tajulislamsaidul/2D-Animated-City/blob/aa35cf86717d106363319410c52a97ae615a6709/Rain%20Output.png) |
 
-> ⚠️ *Add screenshots or GIFs here for better presentation*
-
+## 📹 Video Walkthrough
+![video](https://github.com/)
 ```
 📁 assets/
- ├── screenshot1.png
- ├── screenshot2.png
- └── demo.gif
+ ├── Day.png
+ ├── Night.png
+ └── Light on & Rain.png
+ └── Demo.mp4
 ```
 
 ## 📚 Learning Outcomes
