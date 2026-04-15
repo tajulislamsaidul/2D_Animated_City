@@ -107,12 +107,12 @@ g++ "2D city Projects.cpp" -o city.exe -lfreeglut -lopengl32 -lglu32
 city.exe
 ```
 ## 📸 Screenshots
-| 🌞 Day Mode | 🌙 Night Mode | 🌧️ Rain Effect | 
+| 🌞 Day Mode | 🌙 Night Mode | 🌧️ Light on & Rain Effect | 
 |-----------|------------|-----------|
-| ![Main Window](https://github.com/tajulislamsaidul/2D-Animated-City/blob/aa35cf86717d106363319410c52a97ae615a6709/Day%20output.png) | ![Light Mode](https://github.com/tajulislamsaidul/2D-Animated-City/blob/aa35cf86717d106363319410c52a97ae615a6709/night%20output.png) | ![Patient Report](https://github.com/tajulislamsaidul/2D-Animated-City/blob/aa35cf86717d106363319410c52a97ae615a6709/Rain%20Output.png) |
+| ![Main Window](https://github.com/tajulislamsaidul/2D_Animated_City/blob/a4d9e399f00fdee003a83f53a021e2eaeac4a9ef/Demo/Day.png) | ![Light Mode](https://github.com/tajulislamsaidul/2D_Animated_City/blob/a4d9e399f00fdee003a83f53a021e2eaeac4a9ef/Demo/Night.png) | ![Patient Report](https://github.com/tajulislamsaidul/2D_Animated_City/blob/a4d9e399f00fdee003a83f53a021e2eaeac4a9ef/Demo/Light%20on%20%26%20Rain.png) |
 
 ## 📹 Video Walkthrough
-![video](https://github.com/)
+![video]([https://github.com/](https://github.com/tajulislamsaidul/2D_Animated_City/blob/a4d9e399f00fdee003a83f53a021e2eaeac4a9ef/Demo/Demo%20Videp.mp4))
 ```
 📁 assets/
  ├── Day.png
